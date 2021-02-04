@@ -83,5 +83,6 @@ num_set_4 = {8, 4, 44, 35}
 # print(dict_of_name.keys())
 # print(dict_of_name.values())
 # print(dict_of_name.items())
+print(1)
 
 
